@@ -16,7 +16,7 @@ Neste documento você encontra a relação de requisitos do projeto da 2ª Ediç
 A API deve garantir:
 
 - [] Garantir que a API tenha um código limpo e de fácil manutenção
-- [] Garantir que a API tenha uma forma ágil de acesso ao banco de dados
+- [x] Garantir que a API tenha uma forma ágil de acesso ao banco de dados
 - [] Garantir que a API tenha um tratamento de erros
 - [] Garantir que a API não pare quando algum erro for retornado
 - [] Garantir que a API valide qualquer payload recebido
